@@ -29,5 +29,8 @@ remove the image => docker rmi imageName or id;
 
 Note: you  have to delete all the container before delete the image;
 
+go to browser typing localhost:8080/hello thats will return hello world
+and localhost:8080/swagger-ui.html to access swagerUi
+
 #Happy coding
 
